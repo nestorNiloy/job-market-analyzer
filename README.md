@@ -1,6 +1,7 @@
 # Job Market Analyzer 📊
 
-> **Also see:** [Interactive Power BI Dashboard](https://app.powerbi.com/groups/me/reports/57fd1d03-881f-4366-9f9c-67cb151b5aa9/0f8da061594394de6575?experience=power-bi) — a visual companion to this analysis, built from the same dataset using Power BI. Together, these two projects demonstrate end-to-end data analysis capability: raw Python analysis → business-ready dashboard.
+> **Also see:** [Interactive Power BI Dashboard](https://app.powerbi.com/groups/me/reports/57fd1d03-881f-4366-9f9c-67cb151b5aa9/0f8da061594394de6575?experience=power-bi)
+ — a visual companion to this analysis, built from the same dataset using Power BI. Together, these two projects demonstrate end-to-end data analysis capability: raw Python analysis → business-ready dashboard.
 
 A data analysis project exploring **61,953 real job postings** scraped from Google Search, uncovering trends in the data industry using Python, Pandas, Matplotlib, and Seaborn.
 
